@@ -10,7 +10,7 @@
 #
 
 # first things first
-
+#testing
 sudo yum update -y
 
 # setup some variables
