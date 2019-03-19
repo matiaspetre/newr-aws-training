@@ -16,10 +16,10 @@ sudo yum update -y
 # setup some variables
 
 echo "\
-export YOUR_GITHUB_USER='thywoof'
+export YOUR_GITHUB_USER='matiaspetre'
 
-export YOUR_NAME='Winston Wolfe'
-export YOUR_COMPANY_NAME='Marsellus Wallace Inc.'
+export YOUR_NAME='Matias Petre'
+export YOUR_COMPANY_NAME='NewRelic Workshoop'
 
 export YOUR_LICENSE_KEY=cec283018fe0214f68b46ecc1223ffc43818d5ca
 
